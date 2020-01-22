@@ -9,3 +9,13 @@ C:\Users\HP\Documents\Visual Studio 2017\Projects\Custom HTTP Server\Custom HTTP
 C:\Users\HP\Documents\Visual Studio 2017\Projects\Custom HTTP Server\Custom HTTP Server\bin\Debug\netcoreapp2.1\Custom HTTP Server.pdb
 C:\Users\HP\Documents\Visual Studio 2017\Projects\Custom HTTP Server\Custom HTTP Server\obj\Debug\netcoreapp2.1\Custom HTTP Server.dll
 C:\Users\HP\Documents\Visual Studio 2017\Projects\Custom HTTP Server\Custom HTTP Server\obj\Debug\netcoreapp2.1\Custom HTTP Server.pdb
+C:\repos\Custom-HTTP-Server\Custom HTTP Server\obj\Debug\netcoreapp2.1\Custom HTTP Server.csprojAssemblyReference.cache
+C:\repos\Custom-HTTP-Server\Custom HTTP Server\obj\Debug\netcoreapp2.1\Custom HTTP Server.AssemblyInfoInputs.cache
+C:\repos\Custom-HTTP-Server\Custom HTTP Server\obj\Debug\netcoreapp2.1\Custom HTTP Server.AssemblyInfo.cs
+C:\repos\Custom-HTTP-Server\Custom HTTP Server\obj\Debug\netcoreapp2.1\Custom HTTP Server.dll
+C:\repos\Custom-HTTP-Server\Custom HTTP Server\obj\Debug\netcoreapp2.1\Custom HTTP Server.pdb
+C:\repos\Custom-HTTP-Server\Custom HTTP Server\bin\Debug\netcoreapp2.1\Custom HTTP Server.deps.json
+C:\repos\Custom-HTTP-Server\Custom HTTP Server\bin\Debug\netcoreapp2.1\Custom HTTP Server.runtimeconfig.json
+C:\repos\Custom-HTTP-Server\Custom HTTP Server\bin\Debug\netcoreapp2.1\Custom HTTP Server.runtimeconfig.dev.json
+C:\repos\Custom-HTTP-Server\Custom HTTP Server\bin\Debug\netcoreapp2.1\Custom HTTP Server.dll
+C:\repos\Custom-HTTP-Server\Custom HTTP Server\bin\Debug\netcoreapp2.1\Custom HTTP Server.pdb
